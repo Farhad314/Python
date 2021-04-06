@@ -1,2 +1,2 @@
 # Python
-Simple python code
+Simple python code of variable,string,list,tuple,dictionary,conditional statement,loops.
